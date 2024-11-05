@@ -1,0 +1,10 @@
+fastapi
+Jinja2
+openai
+pydub
+python-dotenv
+pytube
+tqdm
+uvicorn
+websockets
+yt-dlp
